@@ -51,17 +51,11 @@ plt.show()
 ```
 ## Output:
 ```
-x , y:
+x:           6,10,2,3,4,5
+y:           81,23,40,64,54,43
+(m,b):       -2.650000000000001 64.08333333333334
+y_predicted: [48.18333333 37.58333333 58.78333333 56.13333333 53.48333333 50.83333333]
 ```
-![image](https://github.com/user-attachments/assets/d959115d-4031-49c5-8dd3-461cfab3cce5)
-```
-(m,b):
-```
-![image](https://github.com/user-attachments/assets/c1bf8d85-98dd-4db8-a2c6-efeb90d10514)
-```
-y_predicted:
-```
-![image](https://github.com/user-attachments/assets/10b796c4-12a5-4982-a353-f6f067d0b98b)
 ![image](https://github.com/user-attachments/assets/258c7315-e9ff-49b7-bc79-a91b464f3f7f)
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
