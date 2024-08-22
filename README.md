@@ -46,7 +46,6 @@ plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show()
 ```
-
 ## Output:
 ```
 x , y:
@@ -61,12 +60,5 @@ y_predicted:
 ```
 ![image](https://github.com/user-attachments/assets/10b796c4-12a5-4982-a353-f6f067d0b98b)
 ![image](https://github.com/user-attachments/assets/258c7315-e9ff-49b7-bc79-a91b464f3f7f)
-
-
-
-
-
-
-
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
