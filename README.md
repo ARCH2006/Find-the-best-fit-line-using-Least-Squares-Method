@@ -32,8 +32,10 @@ step 8: Stop
 
 ## Program:
 ```
+/*
 NAME: ARCHANA S
 REG.NO: 212223040019
+*/
 import numpy as np
 import matplotlib.pyplot as plt
 # preprocessing input data
